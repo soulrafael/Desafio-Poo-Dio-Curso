@@ -1,0 +1,5 @@
+regras 
+
+*Para cada incritos não pode ocorrer duplicatas
+*So pode se inscrever em um curso, não pode haver duplicatas
+*Para cada curso terminado recebe uma quantidade de xp
